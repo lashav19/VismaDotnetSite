@@ -1,33 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "G:\\code\\cs\\asp\\VismaDotnet\\Project.csproj": {}
+    "/home/lasse/code/cs/Project/Project.csproj": {}
   },
   "projects": {
-    "G:\\code\\cs\\asp\\VismaDotnet\\Project.csproj": {
+    "/home/lasse/code/cs/Project/Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\code\\cs\\asp\\VismaDotnet\\Project.csproj",
+        "projectUniqueName": "/home/lasse/code/cs/Project/Project.csproj",
         "projectName": "Project",
-        "projectPath": "G:\\code\\cs\\asp\\VismaDotnet\\Project.csproj",
-        "packagesPath": "C:\\Users\\Lasse\\.nuget\\packages\\",
-        "outputPath": "G:\\code\\cs\\asp\\VismaDotnet\\obj\\",
+        "projectPath": "/home/lasse/code/cs/Project/Project.csproj",
+        "packagesPath": "/home/lasse/.nuget/packages/",
+        "outputPath": "/home/lasse/code/cs/Project/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Lasse\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/lasse/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -118,6 +110,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.1, 8.0.1]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -126,7 +124,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

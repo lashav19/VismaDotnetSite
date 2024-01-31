@@ -26,15 +26,7 @@ public class HomeController : Controller
     {
         return View();
     }
-    public IActionResult Login(){
-        if(HttpContext.Request.Method == "POST"){
-            string username = HttpContext.Request.Form["username"];
-            string password = HttpContext.Request.Form["password"];
-            System.Console.WriteLine(username);
-            System.Console.WriteLine(password);
-        }
-        return View();
-    }
+
 
 
 
