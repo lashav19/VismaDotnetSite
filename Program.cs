@@ -6,9 +6,8 @@ using Project.Areas.Identity.Data;
 using Project.Data;
 
 var builder = WebApplication.CreateBuilder(args);
-var connectionString = builder.Configuration.GetConnectionString("ProjectContextConnection") ?? throw new InvalidOperationException("Connection string 'ProjectContextConnection' not found.");
 
-builder.Services.AddDbContext<ProjectContext>(options => options.UseSqlServer(connectionString));
+builder.Services.AddDbContext<ProjectContext>(options => options.UseMySql(builder.Configuration.GetConnectionString("MySqlConnection"), new MySqlServerVersion(new Version(8,3,0))));
 
 builder.Services.AddDefaultIdentity<ProjectUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<ProjectContext>();
 builder.Services.AddRazorPages();
