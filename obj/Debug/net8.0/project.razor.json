@@ -13,7 +13,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -497384015,
+        "HashCode": 744733903,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -97,7 +97,7 @@
         }
       },
       {
-        "HashCode": -1073670974,
+        "HashCode": 1534461655,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -182,7 +182,7 @@
         }
       },
       {
-        "HashCode": -23763506,
+        "HashCode": 312465174,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -215,7 +215,7 @@
         }
       },
       {
-        "HashCode": -303711130,
+        "HashCode": -1004530547,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -249,7 +249,7 @@
         }
       },
       {
-        "HashCode": 100365052,
+        "HashCode": -802902747,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -270,7 +270,7 @@
         }
       },
       {
-        "HashCode": -1858161124,
+        "HashCode": 2064326441,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -292,7 +292,7 @@
         }
       },
       {
-        "HashCode": -534390873,
+        "HashCode": 1612347294,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -397,7 +397,7 @@
         }
       },
       {
-        "HashCode": -349296609,
+        "HashCode": 499950491,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -503,7 +503,7 @@
         }
       },
       {
-        "HashCode": -1417422674,
+        "HashCode": -1470027400,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -536,7 +536,7 @@
         }
       },
       {
-        "HashCode": -1735725022,
+        "HashCode": -205897848,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -570,7 +570,7 @@
         }
       },
       {
-        "HashCode": -2088715397,
+        "HashCode": -1983485035,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -603,7 +603,7 @@
         }
       },
       {
-        "HashCode": 1920235441,
+        "HashCode": 756753513,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.NotAuthorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -637,7 +637,7 @@
         }
       },
       {
-        "HashCode": 1413907733,
+        "HashCode": 1025950903,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -670,7 +670,7 @@
         }
       },
       {
-        "HashCode": 1214265243,
+        "HashCode": -573301047,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorized",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -704,7 +704,7 @@
         }
       },
       {
-        "HashCode": -1729054397,
+        "HashCode": 1022692119,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -725,7 +725,7 @@
         }
       },
       {
-        "HashCode": -2078601571,
+        "HashCode": -887628368,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeView.Authorizing",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -747,7 +747,7 @@
         }
       },
       {
-        "HashCode": 1998105545,
+        "HashCode": -1836283122,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -778,7 +778,7 @@
         }
       },
       {
-        "HashCode": 504944027,
+        "HashCode": -1141848903,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -810,7 +810,7 @@
         }
       },
       {
-        "HashCode": -1882564712,
+        "HashCode": 685378032,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -831,7 +831,7 @@
         }
       },
       {
-        "HashCode": -2050639507,
+        "HashCode": -977240428,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Authorization.CascadingAuthenticationState.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Authorization",
@@ -853,7 +853,7 @@
         }
       },
       {
-        "HashCode": 107728601,
+        "HashCode": 1295521836,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -928,7 +928,7 @@
         }
       },
       {
-        "HashCode": -751845611,
+        "HashCode": -1222230152,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1004,7 +1004,7 @@
         }
       },
       {
-        "HashCode": 919060788,
+        "HashCode": -1790077744,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1025,7 +1025,7 @@
         }
       },
       {
-        "HashCode": -998922625,
+        "HashCode": 429075547,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.CascadingValue<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1047,7 +1047,7 @@
         }
       },
       {
-        "HashCode": -747656384,
+        "HashCode": -1891001227,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1089,7 +1089,7 @@
         }
       },
       {
-        "HashCode": -930516323,
+        "HashCode": -1160141759,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.DynamicComponent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1132,7 +1132,7 @@
         }
       },
       {
-        "HashCode": -568552959,
+        "HashCode": -9314672,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1174,7 +1174,7 @@
         }
       },
       {
-        "HashCode": -317021897,
+        "HashCode": -2125034702,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.LayoutView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1217,7 +1217,7 @@
         }
       },
       {
-        "HashCode": -1301273677,
+        "HashCode": -2051470098,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1238,7 +1238,7 @@
         }
       },
       {
-        "HashCode": 1415356354,
+        "HashCode": 1156469625,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.LayoutView.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1260,7 +1260,7 @@
         }
       },
       {
-        "HashCode": 1637967371,
+        "HashCode": -929031354,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1302,7 +1302,7 @@
         }
       },
       {
-        "HashCode": 1672921456,
+        "HashCode": -829000207,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.RouteView",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1345,7 +1345,7 @@
         }
       },
       {
-        "HashCode": 627693390,
+        "HashCode": 933888171,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1452,7 +1452,7 @@
         }
       },
       {
-        "HashCode": 709618351,
+        "HashCode": 742220888,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1560,7 +1560,7 @@
         }
       },
       {
-        "HashCode": 187811244,
+        "HashCode": 1903596654,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1581,7 +1581,7 @@
         }
       },
       {
-        "HashCode": -519889399,
+        "HashCode": 1940914588,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.NotFound",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1603,7 +1603,7 @@
         }
       },
       {
-        "HashCode": -1221878381,
+        "HashCode": 535327800,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1636,7 +1636,7 @@
         }
       },
       {
-        "HashCode": -244433388,
+        "HashCode": 1698809145,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Found",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1670,7 +1670,7 @@
         }
       },
       {
-        "HashCode": -1236061539,
+        "HashCode": -753162745,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1691,7 +1691,7 @@
         }
       },
       {
-        "HashCode": 389771247,
+        "HashCode": 1836566770,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.Router.Navigating",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1713,7 +1713,7 @@
         }
       },
       {
-        "HashCode": 868674631,
+        "HashCode": -792548947,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Sections.SectionContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1765,7 +1765,7 @@
         }
       },
       {
-        "HashCode": 1022878427,
+        "HashCode": -1506611088,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Sections.SectionContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1818,7 +1818,7 @@
         }
       },
       {
-        "HashCode": -1483414197,
+        "HashCode": -1582575686,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Sections.SectionContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1839,7 +1839,7 @@
         }
       },
       {
-        "HashCode": 1522623874,
+        "HashCode": -442334990,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Sections.SectionContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1861,7 +1861,7 @@
         }
       },
       {
-        "HashCode": -86295257,
+        "HashCode": -698617678,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Sections.SectionOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1902,7 +1902,7 @@
         }
       },
       {
-        "HashCode": 191145423,
+        "HashCode": -1644504548,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Sections.SectionOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -1944,7 +1944,7 @@
         }
       },
       {
-        "HashCode": 441766898,
+        "HashCode": 1403240980,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1963,7 +1963,7 @@
         }
       },
       {
-        "HashCode": -406379242,
+        "HashCode": -126060424,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.DataAnnotationsValidator",
         "AssemblyName": "Microsoft.AspNetCore.Components.Forms",
@@ -1983,7 +1983,1729 @@
         }
       },
       {
-        "HashCode": 1092308125,
+        "HashCode": 1776916566,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"T:Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn`2\">\n            <summary>\n            Represents a <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1\" /> column whose cells display a single value.\n            </summary>\n            <typeparam name=\"TGridItem\">The type of data represented by each row in the grid.</typeparam>\n            <typeparam name=\"TProp\">The type of the value being displayed in the column's cells.</typeparam>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PropertyColumn"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TGridItem",
+            "TypeName": "System.Type",
+            "Documentation": "Specifies the type of the type parameter TGridItem for the Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp> component.",
+            "Metadata": {
+              "Common.PropertyName": "TGridItem",
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "TProp",
+            "TypeName": "System.Type",
+            "Documentation": "Specifies the type of the type parameter TProp for the Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp> component.",
+            "Metadata": {
+              "Common.PropertyName": "TProp",
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Property",
+            "TypeName": "System.Linq.Expressions.Expression<System.Func<TGridItem, TProp>>",
+            "IsEditorRequired": true,
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn`2.Property\">\n            <summary>\n            Defines the value to be displayed in this column's cells.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Property",
+              "Common.GloballyQualifiedTypeName": "global::System.Linq.Expressions.Expression<global::System.Func<TGridItem, TProp>>",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Format",
+            "TypeName": "System.String",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn`2.Format\">\n             <summary>\n             Optionally specifies a format string for the value.\n            \n             Using this requires the <typeparamref name=\"TProp\" /> type to implement <see cref=\"T:System.IFormattable\" />.\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Format",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Title\">\n            <summary>\n            Title text for the column. This is rendered automatically if <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\" /> is not used.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Title",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Class",
+            "TypeName": "System.String",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Class\">\n            <summary>\n            An optional CSS class name. If specified, this is included in the class attribute of table header and body cells\n            for this column.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Class",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Align",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Align",
+            "IsEnum": true,
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Align\">\n            <summary>\n            If specified, controls the justification of table header and body cells for this column.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Align",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.Align"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "HeaderTemplate",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.QuickGrid.ColumnBase<TGridItem>>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\">\n            <summary>\n            An optional template for this column's header cell. If not specified, the default header template\n            includes the <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Title\" /> along with any applicable sort indicators and options buttons.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment<global::Microsoft.AspNetCore.Components.QuickGrid.ColumnBase<TGridItem>>",
+              "Common.PropertyName": "HeaderTemplate",
+              "Components.ChildContent": "True",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ColumnOptions",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.ColumnOptions\">\n             <summary>\n             If specified, indicates that this column has this associated options UI. A button to display this\n             UI will be included in the header cell by default.\n            \n             If <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\" /> is used, it is left up to that template to render any relevant\n             \"show options\" UI and invoke the grid's <see cref=\"M:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ShowColumnOptionsAsync(Microsoft.AspNetCore.Components.QuickGrid.ColumnBase{`0})\" />).\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "ColumnOptions",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Sortable",
+            "TypeName": "System.Boolean?",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Sortable\">\n             <summary>\n             Indicates whether the data should be sortable by this column.\n            \n             The default value may vary according to the column type (for example, a <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1\" />\n             is sortable by default if any <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1.SortBy\" /> parameter is specified).\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Sortable",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean?"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "InitialSortDirection",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.SortDirection",
+            "IsEnum": true,
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.InitialSortDirection\">\n            <summary>\n            Indicates which direction to sort in\n            if <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.IsDefaultSortColumn\" /> is true.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "InitialSortDirection",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.SortDirection"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "IsDefaultSortColumn",
+            "TypeName": "System.Boolean",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.IsDefaultSortColumn\">\n            <summary>\n            Indicates whether this column should be sorted by default.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "IsDefaultSortColumn",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "PlaceholderTemplate",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Web.Virtualization.PlaceholderContext>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.PlaceholderTemplate\">\n            <summary>\n            If specified, virtualized grids will use this template to render cells whose data has not yet been loaded.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "PlaceholderTemplate",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment<global::Microsoft.AspNetCore.Components.Web.Virtualization.PlaceholderContext>",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for all child content expressions.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>",
+          "Common.TypeNameIdentifier": "PropertyColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.GenericTyped": "True",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1492845714,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"T:Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn`2\">\n            <summary>\n            Represents a <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1\" /> column whose cells display a single value.\n            </summary>\n            <typeparam name=\"TGridItem\">The type of data represented by each row in the grid.</typeparam>\n            <typeparam name=\"TProp\">The type of the value being displayed in the column's cells.</typeparam>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TGridItem",
+            "TypeName": "System.Type",
+            "Documentation": "Specifies the type of the type parameter TGridItem for the Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp> component.",
+            "Metadata": {
+              "Common.PropertyName": "TGridItem",
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "TProp",
+            "TypeName": "System.Type",
+            "Documentation": "Specifies the type of the type parameter TProp for the Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp> component.",
+            "Metadata": {
+              "Common.PropertyName": "TProp",
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Property",
+            "TypeName": "System.Linq.Expressions.Expression<System.Func<TGridItem, TProp>>",
+            "IsEditorRequired": true,
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn`2.Property\">\n            <summary>\n            Defines the value to be displayed in this column's cells.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Property",
+              "Common.GloballyQualifiedTypeName": "global::System.Linq.Expressions.Expression<global::System.Func<TGridItem, TProp>>",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Format",
+            "TypeName": "System.String",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn`2.Format\">\n             <summary>\n             Optionally specifies a format string for the value.\n            \n             Using this requires the <typeparamref name=\"TProp\" /> type to implement <see cref=\"T:System.IFormattable\" />.\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Format",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Title\">\n            <summary>\n            Title text for the column. This is rendered automatically if <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\" /> is not used.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Title",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Class",
+            "TypeName": "System.String",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Class\">\n            <summary>\n            An optional CSS class name. If specified, this is included in the class attribute of table header and body cells\n            for this column.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Class",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Align",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Align",
+            "IsEnum": true,
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Align\">\n            <summary>\n            If specified, controls the justification of table header and body cells for this column.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Align",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.Align"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "HeaderTemplate",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.QuickGrid.ColumnBase<TGridItem>>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\">\n            <summary>\n            An optional template for this column's header cell. If not specified, the default header template\n            includes the <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Title\" /> along with any applicable sort indicators and options buttons.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment<global::Microsoft.AspNetCore.Components.QuickGrid.ColumnBase<TGridItem>>",
+              "Common.PropertyName": "HeaderTemplate",
+              "Components.ChildContent": "True",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ColumnOptions",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.ColumnOptions\">\n             <summary>\n             If specified, indicates that this column has this associated options UI. A button to display this\n             UI will be included in the header cell by default.\n            \n             If <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\" /> is used, it is left up to that template to render any relevant\n             \"show options\" UI and invoke the grid's <see cref=\"M:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ShowColumnOptionsAsync(Microsoft.AspNetCore.Components.QuickGrid.ColumnBase{`0})\" />).\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "ColumnOptions",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Sortable",
+            "TypeName": "System.Boolean?",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Sortable\">\n             <summary>\n             Indicates whether the data should be sortable by this column.\n            \n             The default value may vary according to the column type (for example, a <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1\" />\n             is sortable by default if any <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1.SortBy\" /> parameter is specified).\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Sortable",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean?"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "InitialSortDirection",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.SortDirection",
+            "IsEnum": true,
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.InitialSortDirection\">\n            <summary>\n            Indicates which direction to sort in\n            if <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.IsDefaultSortColumn\" /> is true.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "InitialSortDirection",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.SortDirection"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "IsDefaultSortColumn",
+            "TypeName": "System.Boolean",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.IsDefaultSortColumn\">\n            <summary>\n            Indicates whether this column should be sorted by default.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "IsDefaultSortColumn",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "PlaceholderTemplate",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Web.Virtualization.PlaceholderContext>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.PlaceholderTemplate\">\n            <summary>\n            If specified, virtualized grids will use this template to render cells whose data has not yet been loaded.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "PlaceholderTemplate",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment<global::Microsoft.AspNetCore.Components.Web.Virtualization.PlaceholderContext>",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for all child content expressions.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>",
+          "Common.TypeNameIdentifier": "PropertyColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.GenericTyped": "True",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -345858571,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>.HeaderTemplate",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\">\n            <summary>\n            An optional template for this column's header cell. If not specified, the default header template\n            includes the <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Title\" /> along with any applicable sort indicators and options buttons.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HeaderTemplate",
+            "ParentTag": "PropertyColumn"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'HeaderTemplate' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>.HeaderTemplate",
+          "Common.TypeNameIdentifier": "PropertyColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -375938765,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>.HeaderTemplate",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\">\n            <summary>\n            An optional template for this column's header cell. If not specified, the default header template\n            includes the <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Title\" /> along with any applicable sort indicators and options buttons.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HeaderTemplate",
+            "ParentTag": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'HeaderTemplate' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>.HeaderTemplate",
+          "Common.TypeNameIdentifier": "PropertyColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 1778429035,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>.ColumnOptions",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.ColumnOptions\">\n             <summary>\n             If specified, indicates that this column has this associated options UI. A button to display this\n             UI will be included in the header cell by default.\n            \n             If <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\" /> is used, it is left up to that template to render any relevant\n             \"show options\" UI and invoke the grid's <see cref=\"M:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ShowColumnOptionsAsync(Microsoft.AspNetCore.Components.QuickGrid.ColumnBase{`0})\" />).\n             </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ColumnOptions",
+            "ParentTag": "PropertyColumn"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>.ColumnOptions",
+          "Common.TypeNameIdentifier": "PropertyColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 1528579269,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>.ColumnOptions",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.ColumnOptions\">\n             <summary>\n             If specified, indicates that this column has this associated options UI. A button to display this\n             UI will be included in the header cell by default.\n            \n             If <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\" /> is used, it is left up to that template to render any relevant\n             \"show options\" UI and invoke the grid's <see cref=\"M:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ShowColumnOptionsAsync(Microsoft.AspNetCore.Components.QuickGrid.ColumnBase{`0})\" />).\n             </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ColumnOptions",
+            "ParentTag": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>.ColumnOptions",
+          "Common.TypeNameIdentifier": "PropertyColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 563027074,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>.PlaceholderTemplate",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.PlaceholderTemplate\">\n            <summary>\n            If specified, virtualized grids will use this template to render cells whose data has not yet been loaded.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PlaceholderTemplate",
+            "ParentTag": "PropertyColumn"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'PlaceholderTemplate' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>.PlaceholderTemplate",
+          "Common.TypeNameIdentifier": "PropertyColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 1072505668,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>.PlaceholderTemplate",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.PlaceholderTemplate\">\n            <summary>\n            If specified, virtualized grids will use this template to render cells whose data has not yet been loaded.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PlaceholderTemplate",
+            "ParentTag": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'PlaceholderTemplate' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.PropertyColumn<TGridItem, TProp>.PlaceholderTemplate",
+          "Common.TypeNameIdentifier": "PropertyColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -1290791255,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"T:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1\">\n            <summary>\n            Represents a <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1\" /> column whose cells render a supplied template.\n            </summary>\n            <typeparam name=\"TGridItem\">The type of data represented by each row in the grid.</typeparam>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TemplateColumn"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TGridItem",
+            "TypeName": "System.Type",
+            "Documentation": "Specifies the type of the type parameter TGridItem for the Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem> component.",
+            "Metadata": {
+              "Common.PropertyName": "TGridItem",
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<TGridItem>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1.ChildContent\">\n            <summary>\n            Specifies the content to be rendered for each row in the table.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment<TGridItem>",
+              "Common.PropertyName": "ChildContent",
+              "Components.ChildContent": "True",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "SortBy",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.GridSort<TGridItem>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1.SortBy\">\n            <inheritdoc />\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "SortBy",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.GridSort<TGridItem>",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Title\">\n            <summary>\n            Title text for the column. This is rendered automatically if <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\" /> is not used.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Title",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Class",
+            "TypeName": "System.String",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Class\">\n            <summary>\n            An optional CSS class name. If specified, this is included in the class attribute of table header and body cells\n            for this column.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Class",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Align",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Align",
+            "IsEnum": true,
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Align\">\n            <summary>\n            If specified, controls the justification of table header and body cells for this column.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Align",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.Align"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "HeaderTemplate",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.QuickGrid.ColumnBase<TGridItem>>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\">\n            <summary>\n            An optional template for this column's header cell. If not specified, the default header template\n            includes the <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Title\" /> along with any applicable sort indicators and options buttons.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment<global::Microsoft.AspNetCore.Components.QuickGrid.ColumnBase<TGridItem>>",
+              "Common.PropertyName": "HeaderTemplate",
+              "Components.ChildContent": "True",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ColumnOptions",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.ColumnOptions\">\n             <summary>\n             If specified, indicates that this column has this associated options UI. A button to display this\n             UI will be included in the header cell by default.\n            \n             If <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\" /> is used, it is left up to that template to render any relevant\n             \"show options\" UI and invoke the grid's <see cref=\"M:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ShowColumnOptionsAsync(Microsoft.AspNetCore.Components.QuickGrid.ColumnBase{`0})\" />).\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "ColumnOptions",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Sortable",
+            "TypeName": "System.Boolean?",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Sortable\">\n             <summary>\n             Indicates whether the data should be sortable by this column.\n            \n             The default value may vary according to the column type (for example, a <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1\" />\n             is sortable by default if any <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1.SortBy\" /> parameter is specified).\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Sortable",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean?"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "InitialSortDirection",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.SortDirection",
+            "IsEnum": true,
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.InitialSortDirection\">\n            <summary>\n            Indicates which direction to sort in\n            if <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.IsDefaultSortColumn\" /> is true.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "InitialSortDirection",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.SortDirection"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "IsDefaultSortColumn",
+            "TypeName": "System.Boolean",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.IsDefaultSortColumn\">\n            <summary>\n            Indicates whether this column should be sorted by default.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "IsDefaultSortColumn",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "PlaceholderTemplate",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Web.Virtualization.PlaceholderContext>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.PlaceholderTemplate\">\n            <summary>\n            If specified, virtualized grids will use this template to render cells whose data has not yet been loaded.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "PlaceholderTemplate",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment<global::Microsoft.AspNetCore.Components.Web.Virtualization.PlaceholderContext>",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for all child content expressions.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>",
+          "Common.TypeNameIdentifier": "TemplateColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.GenericTyped": "True",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1839978839,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"T:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1\">\n            <summary>\n            Represents a <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1\" /> column whose cells render a supplied template.\n            </summary>\n            <typeparam name=\"TGridItem\">The type of data represented by each row in the grid.</typeparam>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TGridItem",
+            "TypeName": "System.Type",
+            "Documentation": "Specifies the type of the type parameter TGridItem for the Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem> component.",
+            "Metadata": {
+              "Common.PropertyName": "TGridItem",
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<TGridItem>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1.ChildContent\">\n            <summary>\n            Specifies the content to be rendered for each row in the table.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment<TGridItem>",
+              "Common.PropertyName": "ChildContent",
+              "Components.ChildContent": "True",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "SortBy",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.GridSort<TGridItem>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1.SortBy\">\n            <inheritdoc />\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "SortBy",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.GridSort<TGridItem>",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Title\">\n            <summary>\n            Title text for the column. This is rendered automatically if <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\" /> is not used.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Title",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Class",
+            "TypeName": "System.String",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Class\">\n            <summary>\n            An optional CSS class name. If specified, this is included in the class attribute of table header and body cells\n            for this column.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Class",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Align",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Align",
+            "IsEnum": true,
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Align\">\n            <summary>\n            If specified, controls the justification of table header and body cells for this column.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Align",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.Align"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "HeaderTemplate",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.QuickGrid.ColumnBase<TGridItem>>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\">\n            <summary>\n            An optional template for this column's header cell. If not specified, the default header template\n            includes the <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Title\" /> along with any applicable sort indicators and options buttons.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment<global::Microsoft.AspNetCore.Components.QuickGrid.ColumnBase<TGridItem>>",
+              "Common.PropertyName": "HeaderTemplate",
+              "Components.ChildContent": "True",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ColumnOptions",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.ColumnOptions\">\n             <summary>\n             If specified, indicates that this column has this associated options UI. A button to display this\n             UI will be included in the header cell by default.\n            \n             If <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\" /> is used, it is left up to that template to render any relevant\n             \"show options\" UI and invoke the grid's <see cref=\"M:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ShowColumnOptionsAsync(Microsoft.AspNetCore.Components.QuickGrid.ColumnBase{`0})\" />).\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "ColumnOptions",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Sortable",
+            "TypeName": "System.Boolean?",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Sortable\">\n             <summary>\n             Indicates whether the data should be sortable by this column.\n            \n             The default value may vary according to the column type (for example, a <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1\" />\n             is sortable by default if any <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1.SortBy\" /> parameter is specified).\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Sortable",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean?"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "InitialSortDirection",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.SortDirection",
+            "IsEnum": true,
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.InitialSortDirection\">\n            <summary>\n            Indicates which direction to sort in\n            if <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.IsDefaultSortColumn\" /> is true.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "InitialSortDirection",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.SortDirection"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "IsDefaultSortColumn",
+            "TypeName": "System.Boolean",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.IsDefaultSortColumn\">\n            <summary>\n            Indicates whether this column should be sorted by default.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "IsDefaultSortColumn",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "PlaceholderTemplate",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment<Microsoft.AspNetCore.Components.Web.Virtualization.PlaceholderContext>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.PlaceholderTemplate\">\n            <summary>\n            If specified, virtualized grids will use this template to render cells whose data has not yet been loaded.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "PlaceholderTemplate",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment<global::Microsoft.AspNetCore.Components.Web.Virtualization.PlaceholderContext>",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for all child content expressions.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>",
+          "Common.TypeNameIdentifier": "TemplateColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.GenericTyped": "True",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 1368449548,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.ChildContent",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1.ChildContent\">\n            <summary>\n            Specifies the content to be rendered for each row in the table.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "TemplateColumn"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'ChildContent' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.ChildContent",
+          "Common.TypeNameIdentifier": "TemplateColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -172975504,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.ChildContent",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn`1.ChildContent\">\n            <summary>\n            Specifies the content to be rendered for each row in the table.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'ChildContent' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.ChildContent",
+          "Common.TypeNameIdentifier": "TemplateColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 1378078414,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.HeaderTemplate",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\">\n            <summary>\n            An optional template for this column's header cell. If not specified, the default header template\n            includes the <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Title\" /> along with any applicable sort indicators and options buttons.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HeaderTemplate",
+            "ParentTag": "TemplateColumn"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'HeaderTemplate' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.HeaderTemplate",
+          "Common.TypeNameIdentifier": "TemplateColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -609757742,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.HeaderTemplate",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\">\n            <summary>\n            An optional template for this column's header cell. If not specified, the default header template\n            includes the <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.Title\" /> along with any applicable sort indicators and options buttons.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HeaderTemplate",
+            "ParentTag": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'HeaderTemplate' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.HeaderTemplate",
+          "Common.TypeNameIdentifier": "TemplateColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 788283076,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.ColumnOptions",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.ColumnOptions\">\n             <summary>\n             If specified, indicates that this column has this associated options UI. A button to display this\n             UI will be included in the header cell by default.\n            \n             If <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\" /> is used, it is left up to that template to render any relevant\n             \"show options\" UI and invoke the grid's <see cref=\"M:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ShowColumnOptionsAsync(Microsoft.AspNetCore.Components.QuickGrid.ColumnBase{`0})\" />).\n             </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ColumnOptions",
+            "ParentTag": "TemplateColumn"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.ColumnOptions",
+          "Common.TypeNameIdentifier": "TemplateColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 1836464683,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.ColumnOptions",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.ColumnOptions\">\n             <summary>\n             If specified, indicates that this column has this associated options UI. A button to display this\n             UI will be included in the header cell by default.\n            \n             If <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.HeaderTemplate\" /> is used, it is left up to that template to render any relevant\n             \"show options\" UI and invoke the grid's <see cref=\"M:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ShowColumnOptionsAsync(Microsoft.AspNetCore.Components.QuickGrid.ColumnBase{`0})\" />).\n             </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ColumnOptions",
+            "ParentTag": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.ColumnOptions",
+          "Common.TypeNameIdentifier": "TemplateColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 341986947,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.PlaceholderTemplate",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.PlaceholderTemplate\">\n            <summary>\n            If specified, virtualized grids will use this template to render cells whose data has not yet been loaded.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PlaceholderTemplate",
+            "ParentTag": "TemplateColumn"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'PlaceholderTemplate' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.PlaceholderTemplate",
+          "Common.TypeNameIdentifier": "TemplateColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 609168005,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.PlaceholderTemplate",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1.PlaceholderTemplate\">\n            <summary>\n            If specified, virtualized grids will use this template to render cells whose data has not yet been loaded.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PlaceholderTemplate",
+            "ParentTag": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.ChildContent",
+            "Name": "Context",
+            "TypeName": "System.String",
+            "Documentation": "Specifies the parameter name for the 'PlaceholderTemplate' child content expression.",
+            "Metadata": {
+              "Components.ChildContentParameterName": "True",
+              "Common.PropertyName": "Context"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.TemplateColumn<TGridItem>.PlaceholderTemplate",
+          "Common.TypeNameIdentifier": "TemplateColumn",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -1083276292,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.Paginator",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"T:Microsoft.AspNetCore.Components.QuickGrid.Paginator\">\n            <summary>\n            A component that provides a user interface for <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.PaginationState\" />.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Paginator"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "State",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.PaginationState",
+            "IsEditorRequired": true,
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.Paginator.State\">\n            <summary>\n            Specifies the associated <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.PaginationState\" />. This parameter is required.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "State",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.PaginationState"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "SummaryTemplate",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.Paginator.SummaryTemplate\">\n            <summary>\n            Optionally supplies a template for rendering the page count summary.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "SummaryTemplate",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Paginator",
+          "Common.TypeNameIdentifier": "Paginator",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 489337138,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.Paginator",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"T:Microsoft.AspNetCore.Components.QuickGrid.Paginator\">\n            <summary>\n            A component that provides a user interface for <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.PaginationState\" />.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Microsoft.AspNetCore.Components.QuickGrid.Paginator"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "State",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.PaginationState",
+            "IsEditorRequired": true,
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.Paginator.State\">\n            <summary>\n            Specifies the associated <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.PaginationState\" />. This parameter is required.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "State",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.PaginationState"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "SummaryTemplate",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.Paginator.SummaryTemplate\">\n            <summary>\n            Optionally supplies a template for rendering the page count summary.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "SummaryTemplate",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Paginator",
+          "Common.TypeNameIdentifier": "Paginator",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1049998953,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.Paginator.SummaryTemplate",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.Paginator.SummaryTemplate\">\n            <summary>\n            Optionally supplies a template for rendering the page count summary.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SummaryTemplate",
+            "ParentTag": "Paginator"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Paginator.SummaryTemplate",
+          "Common.TypeNameIdentifier": "Paginator",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 1446519774,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.Paginator.SummaryTemplate",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.Paginator.SummaryTemplate\">\n            <summary>\n            Optionally supplies a template for rendering the page count summary.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SummaryTemplate",
+            "ParentTag": "Microsoft.AspNetCore.Components.QuickGrid.Paginator"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Paginator.SummaryTemplate",
+          "Common.TypeNameIdentifier": "Paginator",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 645651765,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.QuickGrid<TGridItem>",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"T:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1\">\n            <summary>\n            A component that displays a grid.\n            </summary>\n            <typeparam name=\"TGridItem\">The type of data represented by each row in the grid.</typeparam>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "QuickGrid"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TGridItem",
+            "TypeName": "System.Type",
+            "Documentation": "Specifies the type of the type parameter TGridItem for the Microsoft.AspNetCore.Components.QuickGrid.QuickGrid<TGridItem> component.",
+            "Metadata": {
+              "Common.PropertyName": "TGridItem",
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Items",
+            "TypeName": "System.Linq.IQueryable<TGridItem>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Items\">\n             <summary>\n             A queryable source of data for the grid.\n            \n             This could be in-memory data converted to queryable using the\n             <see cref=\"M:System.Linq.Queryable.AsQueryable(System.Collections.IEnumerable)\" /> extension method,\n             or an EntityFramework DataSet or an <see cref=\"T:System.Linq.IQueryable\" /> derived from it.\n            \n             You should supply either <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Items\" /> or <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ItemsProvider\" />, but not both.\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Items",
+              "Common.GloballyQualifiedTypeName": "global::System.Linq.IQueryable<TGridItem>",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ItemsProvider",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.GridItemsProvider<TGridItem>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ItemsProvider\">\n             <summary>\n             A callback that supplies data for the rid.\n            \n             You should supply either <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Items\" /> or <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ItemsProvider\" />, but not both.\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.GridItemsProvider<TGridItem>",
+              "Common.PropertyName": "ItemsProvider",
+              "Components.DelegateSignature": "True",
+              "Components.GenericTyped": "True",
+              "Components.IsDelegateAwaitableResult": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Class",
+            "TypeName": "System.String",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Class\">\n            <summary>\n            An optional CSS class name. If given, this will be included in the class attribute of the rendered table.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Class",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Theme",
+            "TypeName": "System.String",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Theme\">\n            <summary>\n            A theme name, with default value \"default\". This affects which styling rules match the table.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Theme",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ChildContent\">\n            <summary>\n            Defines the child components of this instance. For example, you may define columns by adding\n            components derived from the <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1\" /> base class.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Virtualize",
+            "TypeName": "System.Boolean",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Virtualize\">\n             <summary>\n             If true, the grid will be rendered with virtualization. This is normally used in conjunction with\n             scrolling and causes the grid to fetch and render only the data around the current scroll viewport.\n             This can greatly improve the performance when scrolling through large data sets.\n            \n             If you use <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Virtualize\" />, you should supply a value for <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ItemSize\" /> and must\n             ensure that every row renders with the same constant height.\n            \n             Generally it's preferable not to use <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Virtualize\" /> if the amount of data being rendered\n             is small or if you are using pagination.\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Virtualize",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ItemSize",
+            "TypeName": "System.Single",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ItemSize\">\n            <summary>\n            This is applicable only when using <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Virtualize\" />. It defines an expected height in pixels for\n            each row, allowing the virtualization mechanism to fetch the correct number of items to match the display\n            size and to ensure accurate scrolling.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "ItemSize",
+              "Common.GloballyQualifiedTypeName": "global::System.Single"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ItemKey",
+            "TypeName": "System.Func<TGridItem, System.Object>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ItemKey\">\n             <summary>\n             Optionally defines a value for @key on each rendered row. Typically this should be used to specify a\n             unique identifier, such as a primary key value, for each data item.\n            \n             This allows the grid to preserve the association between row elements and data items based on their\n             unique identifiers, even when the TGridItem instances are replaced by new copies (for\n             example, after a new query against the underlying data store).\n            \n             If not set, the @key will be the TGridItem instance itself.\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.GloballyQualifiedTypeName": "global::System.Func<TGridItem, global::System.Object>",
+              "Common.PropertyName": "ItemKey",
+              "Components.DelegateSignature": "True",
+              "Components.GenericTyped": "True",
+              "Components.IsDelegateAwaitableResult": "False"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Pagination",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.PaginationState",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Pagination\">\n             <summary>\n             Optionally links this <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1\" /> instance with a <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.PaginationState\" /> model,\n             causing the grid to fetch and render only the current page of data.\n            \n             This is normally used in conjunction with a <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.Paginator\" /> component or some other UI logic\n             that displays and updates the supplied <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.PaginationState\" /> instance.\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Pagination",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.PaginationState"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "AdditionalAttributes",
+            "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.AdditionalAttributes\">\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "AdditionalAttributes",
+              "Common.GloballyQualifiedTypeName": "global::System.Collections.Generic.IReadOnlyDictionary<global::System.String, global::System.Object>"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.QuickGrid<TGridItem>",
+          "Common.TypeNameIdentifier": "QuickGrid",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.GenericTyped": "True",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 434429514,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.QuickGrid<TGridItem>",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"T:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1\">\n            <summary>\n            A component that displays a grid.\n            </summary>\n            <typeparam name=\"TGridItem\">The type of data represented by each row in the grid.</typeparam>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Microsoft.AspNetCore.Components.QuickGrid.QuickGrid"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TGridItem",
+            "TypeName": "System.Type",
+            "Documentation": "Specifies the type of the type parameter TGridItem for the Microsoft.AspNetCore.Components.QuickGrid.QuickGrid<TGridItem> component.",
+            "Metadata": {
+              "Common.PropertyName": "TGridItem",
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Items",
+            "TypeName": "System.Linq.IQueryable<TGridItem>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Items\">\n             <summary>\n             A queryable source of data for the grid.\n            \n             This could be in-memory data converted to queryable using the\n             <see cref=\"M:System.Linq.Queryable.AsQueryable(System.Collections.IEnumerable)\" /> extension method,\n             or an EntityFramework DataSet or an <see cref=\"T:System.Linq.IQueryable\" /> derived from it.\n            \n             You should supply either <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Items\" /> or <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ItemsProvider\" />, but not both.\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Items",
+              "Common.GloballyQualifiedTypeName": "global::System.Linq.IQueryable<TGridItem>",
+              "Components.GenericTyped": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ItemsProvider",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.GridItemsProvider<TGridItem>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ItemsProvider\">\n             <summary>\n             A callback that supplies data for the rid.\n            \n             You should supply either <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Items\" /> or <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ItemsProvider\" />, but not both.\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.GridItemsProvider<TGridItem>",
+              "Common.PropertyName": "ItemsProvider",
+              "Components.DelegateSignature": "True",
+              "Components.GenericTyped": "True",
+              "Components.IsDelegateAwaitableResult": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Class",
+            "TypeName": "System.String",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Class\">\n            <summary>\n            An optional CSS class name. If given, this will be included in the class attribute of the rendered table.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Class",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Theme",
+            "TypeName": "System.String",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Theme\">\n            <summary>\n            A theme name, with default value \"default\". This affects which styling rules match the table.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Theme",
+              "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ChildContent\">\n            <summary>\n            Defines the child components of this instance. For example, you may define columns by adding\n            components derived from the <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1\" /> base class.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Virtualize",
+            "TypeName": "System.Boolean",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Virtualize\">\n             <summary>\n             If true, the grid will be rendered with virtualization. This is normally used in conjunction with\n             scrolling and causes the grid to fetch and render only the data around the current scroll viewport.\n             This can greatly improve the performance when scrolling through large data sets.\n            \n             If you use <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Virtualize\" />, you should supply a value for <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ItemSize\" /> and must\n             ensure that every row renders with the same constant height.\n            \n             Generally it's preferable not to use <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Virtualize\" /> if the amount of data being rendered\n             is small or if you are using pagination.\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Virtualize",
+              "Common.GloballyQualifiedTypeName": "global::System.Boolean"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ItemSize",
+            "TypeName": "System.Single",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ItemSize\">\n            <summary>\n            This is applicable only when using <see cref=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Virtualize\" />. It defines an expected height in pixels for\n            each row, allowing the virtualization mechanism to fetch the correct number of items to match the display\n            size and to ensure accurate scrolling.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "ItemSize",
+              "Common.GloballyQualifiedTypeName": "global::System.Single"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "ItemKey",
+            "TypeName": "System.Func<TGridItem, System.Object>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ItemKey\">\n             <summary>\n             Optionally defines a value for @key on each rendered row. Typically this should be used to specify a\n             unique identifier, such as a primary key value, for each data item.\n            \n             This allows the grid to preserve the association between row elements and data items based on their\n             unique identifiers, even when the TGridItem instances are replaced by new copies (for\n             example, after a new query against the underlying data store).\n            \n             If not set, the @key will be the TGridItem instance itself.\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.GloballyQualifiedTypeName": "global::System.Func<TGridItem, global::System.Object>",
+              "Common.PropertyName": "ItemKey",
+              "Components.DelegateSignature": "True",
+              "Components.GenericTyped": "True",
+              "Components.IsDelegateAwaitableResult": "False"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Pagination",
+            "TypeName": "Microsoft.AspNetCore.Components.QuickGrid.PaginationState",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.Pagination\">\n             <summary>\n             Optionally links this <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1\" /> instance with a <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.PaginationState\" /> model,\n             causing the grid to fetch and render only the current page of data.\n            \n             This is normally used in conjunction with a <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.Paginator\" /> component or some other UI logic\n             that displays and updates the supplied <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.PaginationState\" /> instance.\n             </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "Pagination",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.QuickGrid.PaginationState"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "AdditionalAttributes",
+            "TypeName": "System.Collections.Generic.IReadOnlyDictionary<System.String, System.Object>",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.AdditionalAttributes\">\n            <summary>\n            Gets or sets a collection of additional attributes that will be applied to the created element.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "AdditionalAttributes",
+              "Common.GloballyQualifiedTypeName": "global::System.Collections.Generic.IReadOnlyDictionary<global::System.String, global::System.Object>"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.QuickGrid<TGridItem>",
+          "Common.TypeNameIdentifier": "QuickGrid",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.GenericTyped": "True",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -596804713,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.QuickGrid<TGridItem>.ChildContent",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ChildContent\">\n            <summary>\n            Defines the child components of this instance. For example, you may define columns by adding\n            components derived from the <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1\" /> base class.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "QuickGrid"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.QuickGrid<TGridItem>.ChildContent",
+          "Common.TypeNameIdentifier": "QuickGrid",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -1308050250,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.QuickGrid<TGridItem>.ChildContent",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.QuickGrid`1.ChildContent\">\n            <summary>\n            Defines the child components of this instance. For example, you may define columns by adding\n            components derived from the <see cref=\"T:Microsoft.AspNetCore.Components.QuickGrid.ColumnBase`1\" /> base class.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "Microsoft.AspNetCore.Components.QuickGrid.QuickGrid"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.QuickGrid<TGridItem>.ChildContent",
+          "Common.TypeNameIdentifier": "QuickGrid",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": 385408143,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.ColumnsCollectedNotifier<TGridItem>",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"T:Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.ColumnsCollectedNotifier`1\">\n            <summary>\n            For internal use only. Do not use.\n            </summary>\n            <typeparam name=\"TGridItem\">For internal use only. Do not use.</typeparam>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ColumnsCollectedNotifier"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TGridItem",
+            "TypeName": "System.Type",
+            "Documentation": "Specifies the type of the type parameter TGridItem for the Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.ColumnsCollectedNotifier<TGridItem> component.",
+            "Metadata": {
+              "Common.PropertyName": "TGridItem",
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.ColumnsCollectedNotifier<TGridItem>",
+          "Common.TypeNameIdentifier": "ColumnsCollectedNotifier",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure",
+          "Components.GenericTyped": "True",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1579302188,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.ColumnsCollectedNotifier<TGridItem>",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"T:Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.ColumnsCollectedNotifier`1\">\n            <summary>\n            For internal use only. Do not use.\n            </summary>\n            <typeparam name=\"TGridItem\">For internal use only. Do not use.</typeparam>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.ColumnsCollectedNotifier"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TGridItem",
+            "TypeName": "System.Type",
+            "Documentation": "Specifies the type of the type parameter TGridItem for the Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.ColumnsCollectedNotifier<TGridItem> component.",
+            "Metadata": {
+              "Common.PropertyName": "TGridItem",
+              "Components.TypeParameter": "True",
+              "Components.TypeParameterIsCascading": "False"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.ColumnsCollectedNotifier<TGridItem>",
+          "Common.TypeNameIdentifier": "ColumnsCollectedNotifier",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure",
+          "Components.GenericTyped": "True",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1633279040,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"T:Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer\">\n            <summary>\n            For internal use only. Do not use.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Defer"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer.ChildContent\">\n            <summary>\n            For internal use only. Do not use.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer",
+          "Common.TypeNameIdentifier": "Defer",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -673662938,
+        "Kind": "Components.Component",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"T:Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer\">\n            <summary>\n            For internal use only. Do not use.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "ChildContent",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer.ChildContent\">\n            <summary>\n            For internal use only. Do not use.\n            </summary>\n        </member>",
+            "Metadata": {
+              "Common.PropertyName": "ChildContent",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.RenderFragment",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer",
+          "Common.TypeNameIdentifier": "Defer",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1901684534,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer.ChildContent",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer.ChildContent\">\n            <summary>\n            For internal use only. Do not use.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "Defer"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer.ChildContent",
+          "Common.TypeNameIdentifier": "Defer",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -2075566408,
+        "Kind": "Components.ChildContent",
+        "Name": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer.ChildContent",
+        "AssemblyName": "Microsoft.AspNetCore.Components.QuickGrid",
+        "Documentation": "<member name=\"P:Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer.ChildContent\">\n            <summary>\n            For internal use only. Do not use.\n            </summary>\n        </member>",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ChildContent",
+            "ParentTag": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.Defer.ChildContent",
+          "Common.TypeNameIdentifier": "Defer",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -1025478456,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.AntiforgeryToken",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2002,7 +3724,7 @@
         }
       },
       {
-        "HashCode": -400533301,
+        "HashCode": -1476393598,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.AntiforgeryToken",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2022,7 +3744,7 @@
         }
       },
       {
-        "HashCode": -2005155717,
+        "HashCode": -1694664066,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2147,7 +3869,7 @@
         }
       },
       {
-        "HashCode": -1402434349,
+        "HashCode": -1228317448,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2273,7 +3995,7 @@
         }
       },
       {
-        "HashCode": 760587456,
+        "HashCode": -1337132021,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2306,7 +4028,7 @@
         }
       },
       {
-        "HashCode": -185797221,
+        "HashCode": -7007061,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.EditForm.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2340,7 +4062,7 @@
         }
       },
       {
-        "HashCode": 231196630,
+        "HashCode": -683493396,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2412,7 +4134,7 @@
         }
       },
       {
-        "HashCode": 1202813795,
+        "HashCode": -1628500827,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2485,7 +4207,7 @@
         }
       },
       {
-        "HashCode": 207188125,
+        "HashCode": -1170974404,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2593,7 +4315,7 @@
         }
       },
       {
-        "HashCode": 1019567828,
+        "HashCode": -1645282417,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2702,7 +4424,7 @@
         }
       },
       {
-        "HashCode": -1962670136,
+        "HashCode": 1721763122,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2744,7 +4466,7 @@
         }
       },
       {
-        "HashCode": -862113549,
+        "HashCode": 234933957,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputFile",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2787,7 +4509,7 @@
         }
       },
       {
-        "HashCode": 308278132,
+        "HashCode": 1370174678,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2884,7 +4606,7 @@
         }
       },
       {
-        "HashCode": 325417624,
+        "HashCode": -978135177,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -2982,7 +4704,7 @@
         }
       },
       {
-        "HashCode": 550791514,
+        "HashCode": -2058405692,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3046,7 +4768,7 @@
         }
       },
       {
-        "HashCode": 2121879395,
+        "HashCode": 1309417192,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadio<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3111,7 +4833,7 @@
         }
       },
       {
-        "HashCode": 644914134,
+        "HashCode": -200822159,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3219,7 +4941,7 @@
         }
       },
       {
-        "HashCode": -1542423151,
+        "HashCode": -1343095171,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3328,7 +5050,7 @@
         }
       },
       {
-        "HashCode": 1456600523,
+        "HashCode": 420888134,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3349,7 +5071,7 @@
         }
       },
       {
-        "HashCode": -1769207169,
+        "HashCode": 474727886,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3371,7 +5093,7 @@
         }
       },
       {
-        "HashCode": 770408064,
+        "HashCode": 1516808461,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3469,7 +5191,7 @@
         }
       },
       {
-        "HashCode": -488261504,
+        "HashCode": -967036056,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3568,7 +5290,7 @@
         }
       },
       {
-        "HashCode": 1186723966,
+        "HashCode": 1369494480,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3589,7 +5311,7 @@
         }
       },
       {
-        "HashCode": -1907805420,
+        "HashCode": -91339800,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3611,7 +5333,7 @@
         }
       },
       {
-        "HashCode": -1301307003,
+        "HashCode": -287595722,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3683,7 +5405,7 @@
         }
       },
       {
-        "HashCode": -264229949,
+        "HashCode": -1115761225,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3756,7 +5478,7 @@
         }
       },
       {
-        "HashCode": 1819021703,
+        "HashCode": -1957057781,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3828,7 +5550,7 @@
         }
       },
       {
-        "HashCode": -141347050,
+        "HashCode": -1089115088,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3901,7 +5623,7 @@
         }
       },
       {
-        "HashCode": 2044790497,
+        "HashCode": 723512730,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.FormMappingScope",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -3954,7 +5676,7 @@
         }
       },
       {
-        "HashCode": 1913464574,
+        "HashCode": -1468662774,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.FormMappingScope",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4008,7 +5730,7 @@
         }
       },
       {
-        "HashCode": 121585750,
+        "HashCode": 913592978,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.FormMappingScope.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4041,7 +5763,7 @@
         }
       },
       {
-        "HashCode": -2141899135,
+        "HashCode": 1083070983,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Forms.FormMappingScope.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4075,7 +5797,7 @@
         }
       },
       {
-        "HashCode": 1163023878,
+        "HashCode": 445799772,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4129,7 +5851,7 @@
         }
       },
       {
-        "HashCode": -2129278952,
+        "HashCode": -1858682138,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationMessage<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4184,7 +5906,7 @@
         }
       },
       {
-        "HashCode": -1267869056,
+        "HashCode": 1922978599,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4225,7 +5947,7 @@
         }
       },
       {
-        "HashCode": 547374091,
+        "HashCode": 1053140391,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Forms.ValidationSummary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4267,7 +5989,7 @@
         }
       },
       {
-        "HashCode": 615425802,
+        "HashCode": 2042073160,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4308,7 +6030,7 @@
         }
       },
       {
-        "HashCode": -2055758980,
+        "HashCode": -352284545,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.FocusOnNavigate",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4350,7 +6072,7 @@
         }
       },
       {
-        "HashCode": -1627419379,
+        "HashCode": 1106289743,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4392,7 +6114,7 @@
         }
       },
       {
-        "HashCode": 1180084041,
+        "HashCode": 1779992408,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavigationLock",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4435,7 +6157,7 @@
         }
       },
       {
-        "HashCode": 548606842,
+        "HashCode": -1252221456,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4498,7 +6220,7 @@
         }
       },
       {
-        "HashCode": -989030688,
+        "HashCode": -1549940702,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4562,7 +6284,7 @@
         }
       },
       {
-        "HashCode": 1835849254,
+        "HashCode": -1383720535,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4583,7 +6305,7 @@
         }
       },
       {
-        "HashCode": 1207767622,
+        "HashCode": 169720585,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Routing.NavLink.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4605,7 +6327,7 @@
         }
       },
       {
-        "HashCode": -621485885,
+        "HashCode": -416017066,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4637,7 +6359,7 @@
         }
       },
       {
-        "HashCode": 360089627,
+        "HashCode": -204137031,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4670,7 +6392,7 @@
         }
       },
       {
-        "HashCode": 290816523,
+        "HashCode": 784516249,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4691,7 +6413,7 @@
         }
       },
       {
-        "HashCode": 1086542997,
+        "HashCode": 1994898084,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadContent.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4713,7 +6435,7 @@
         }
       },
       {
-        "HashCode": -439294760,
+        "HashCode": -474224748,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4732,7 +6454,7 @@
         }
       },
       {
-        "HashCode": 1341401782,
+        "HashCode": 659273380,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.HeadOutlet",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4752,7 +6474,7 @@
         }
       },
       {
-        "HashCode": -519181235,
+        "HashCode": -2018167262,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4784,7 +6506,7 @@
         }
       },
       {
-        "HashCode": 1813686264,
+        "HashCode": 470270846,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4817,7 +6539,7 @@
         }
       },
       {
-        "HashCode": -963000007,
+        "HashCode": 102765023,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4838,7 +6560,7 @@
         }
       },
       {
-        "HashCode": -1864951487,
+        "HashCode": 1394982432,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.PageTitle.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4860,7 +6582,7 @@
         }
       },
       {
-        "HashCode": 906728985,
+        "HashCode": 1923010636,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4923,7 +6645,7 @@
         }
       },
       {
-        "HashCode": -826471611,
+        "HashCode": 1465915443,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -4987,7 +6709,7 @@
         }
       },
       {
-        "HashCode": -2105322293,
+        "HashCode": 987812821,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5008,7 +6730,7 @@
         }
       },
       {
-        "HashCode": -1035877862,
+        "HashCode": 1831582562,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5030,7 +6752,7 @@
         }
       },
       {
-        "HashCode": 52471440,
+        "HashCode": 104409789,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5063,7 +6785,7 @@
         }
       },
       {
-        "HashCode": -1060464412,
+        "HashCode": -40462189,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.ErrorBoundary.ErrorContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5097,7 +6819,7 @@
         }
       },
       {
-        "HashCode": 1538815858,
+        "HashCode": 1854859699,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5240,7 +6962,7 @@
         }
       },
       {
-        "HashCode": 1224641053,
+        "HashCode": -1152307403,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5384,7 +7106,7 @@
         }
       },
       {
-        "HashCode": 2146784465,
+        "HashCode": 102917822,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5417,7 +7139,7 @@
         }
       },
       {
-        "HashCode": -1429532117,
+        "HashCode": -839397620,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ChildContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5451,7 +7173,7 @@
         }
       },
       {
-        "HashCode": -725779118,
+        "HashCode": -329911157,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5484,7 +7206,7 @@
         }
       },
       {
-        "HashCode": -1028900840,
+        "HashCode": -1114881783,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.ItemContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5518,7 +7240,7 @@
         }
       },
       {
-        "HashCode": -1612484409,
+        "HashCode": 1607465316,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5551,7 +7273,7 @@
         }
       },
       {
-        "HashCode": -2022331964,
+        "HashCode": 243472738,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.Placeholder",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5585,7 +7307,7 @@
         }
       },
       {
-        "HashCode": -379910131,
+        "HashCode": -1002729715,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.EmptyContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5606,7 +7328,7 @@
         }
       },
       {
-        "HashCode": 1784353251,
+        "HashCode": 368015649,
         "Kind": "Components.ChildContent",
         "Name": "Microsoft.AspNetCore.Components.Web.Virtualization.Virtualize<TItem>.EmptyContent",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -5628,7 +7350,90 @@
         }
       },
       {
-        "HashCode": -1360886883,
+        "HashCode": -1524935476,
+        "Kind": "Components.EventHandler",
+        "Name": "onclosecolumnoptions",
+        "AssemblyName": "Microsoft.AspNetCore.Components",
+        "Documentation": "Sets the '@onclosecolumnoptions' attribute to the provided string or delegate value. A delegate value should be of type 'System.EventArgs'.",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "*",
+            "Attributes": [
+              {
+                "Name": "@onclosecolumnoptions",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          },
+          {
+            "TagName": "*",
+            "Attributes": [
+              {
+                "Name": "@onclosecolumnoptions:preventDefault",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          },
+          {
+            "TagName": "*",
+            "Attributes": [
+              {
+                "Name": "@onclosecolumnoptions:stopPropagation",
+                "Metadata": {
+                  "Common.DirectiveAttribute": "True"
+                }
+              }
+            ]
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.EventHandler",
+            "Name": "@onclosecolumnoptions",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback<System.EventArgs>",
+            "Documentation": "Sets the '@onclosecolumnoptions' attribute to the provided string or delegate value. A delegate value should be of type 'System.EventArgs'.",
+            "Metadata": {
+              "Components.IsWeaklyTyped": "True",
+              "Common.DirectiveAttribute": "True",
+              "Common.PropertyName": "onclosecolumnoptions"
+            },
+            "BoundAttributeParameters": [
+              {
+                "Name": "preventDefault",
+                "TypeName": "System.Boolean",
+                "Documentation": "Specifies whether to cancel (if cancelable) the default action that belongs to the '@onclosecolumnoptions' event.",
+                "Metadata": {
+                  "Common.PropertyName": "PreventDefault"
+                }
+              },
+              {
+                "Name": "stopPropagation",
+                "TypeName": "System.Boolean",
+                "Documentation": "Specifies whether to prevent further propagation of the '@onclosecolumnoptions' event in the capturing and bubbling phases.",
+                "Metadata": {
+                  "Common.PropertyName": "StopPropagation"
+                }
+              }
+            ]
+          }
+        ],
+        "Metadata": {
+          "Common.ClassifyAttributesOnly": "True",
+          "Common.TypeName": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure.EventHandlers",
+          "Common.TypeNameIdentifier": "EventHandlers",
+          "Common.TypeNamespace": "Microsoft.AspNetCore.Components.QuickGrid.Infrastructure",
+          "Components.EventHandler.EventArgs": "System.EventArgs",
+          "Components.IsSpecialKind": "Components.EventHandler",
+          "Runtime.Name": "Components.None"
+        }
+      },
+      {
+        "HashCode": -1573939010,
         "Kind": "Components.EventHandler",
         "Name": "onfocus",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5711,7 +7516,7 @@
         }
       },
       {
-        "HashCode": 1595913794,
+        "HashCode": 91232850,
         "Kind": "Components.EventHandler",
         "Name": "onblur",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5794,7 +7599,7 @@
         }
       },
       {
-        "HashCode": -1360435429,
+        "HashCode": -2103887803,
         "Kind": "Components.EventHandler",
         "Name": "onfocusin",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5877,7 +7682,7 @@
         }
       },
       {
-        "HashCode": 46794403,
+        "HashCode": -2050297713,
         "Kind": "Components.EventHandler",
         "Name": "onfocusout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -5960,7 +7765,7 @@
         }
       },
       {
-        "HashCode": -1771566549,
+        "HashCode": 222387938,
         "Kind": "Components.EventHandler",
         "Name": "onmouseover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6043,7 +7848,7 @@
         }
       },
       {
-        "HashCode": 219651871,
+        "HashCode": 835863900,
         "Kind": "Components.EventHandler",
         "Name": "onmouseout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6126,7 +7931,7 @@
         }
       },
       {
-        "HashCode": 581303984,
+        "HashCode": 1447920746,
         "Kind": "Components.EventHandler",
         "Name": "onmouseleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6209,7 +8014,7 @@
         }
       },
       {
-        "HashCode": -1852302204,
+        "HashCode": 2095999733,
         "Kind": "Components.EventHandler",
         "Name": "onmouseenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6292,7 +8097,7 @@
         }
       },
       {
-        "HashCode": -124079243,
+        "HashCode": -297656878,
         "Kind": "Components.EventHandler",
         "Name": "onmousemove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6375,7 +8180,7 @@
         }
       },
       {
-        "HashCode": -1525249776,
+        "HashCode": -546379544,
         "Kind": "Components.EventHandler",
         "Name": "onmousedown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6458,7 +8263,7 @@
         }
       },
       {
-        "HashCode": 15462230,
+        "HashCode": -1717185824,
         "Kind": "Components.EventHandler",
         "Name": "onmouseup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6541,7 +8346,7 @@
         }
       },
       {
-        "HashCode": -1656697068,
+        "HashCode": -171321478,
         "Kind": "Components.EventHandler",
         "Name": "onclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6624,7 +8429,7 @@
         }
       },
       {
-        "HashCode": -1230768218,
+        "HashCode": -1524981280,
         "Kind": "Components.EventHandler",
         "Name": "ondblclick",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6707,7 +8512,7 @@
         }
       },
       {
-        "HashCode": 947356998,
+        "HashCode": 1771797223,
         "Kind": "Components.EventHandler",
         "Name": "onwheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6790,7 +8595,7 @@
         }
       },
       {
-        "HashCode": 2082610321,
+        "HashCode": 1571388979,
         "Kind": "Components.EventHandler",
         "Name": "onmousewheel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6873,7 +8678,7 @@
         }
       },
       {
-        "HashCode": 1098168589,
+        "HashCode": -1861957196,
         "Kind": "Components.EventHandler",
         "Name": "oncontextmenu",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -6956,7 +8761,7 @@
         }
       },
       {
-        "HashCode": 522347467,
+        "HashCode": 1729297566,
         "Kind": "Components.EventHandler",
         "Name": "ondrag",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7039,7 +8844,7 @@
         }
       },
       {
-        "HashCode": 1106197155,
+        "HashCode": -1890193186,
         "Kind": "Components.EventHandler",
         "Name": "ondragend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7122,7 +8927,7 @@
         }
       },
       {
-        "HashCode": 1806776802,
+        "HashCode": 1899413147,
         "Kind": "Components.EventHandler",
         "Name": "ondragenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7205,7 +9010,7 @@
         }
       },
       {
-        "HashCode": 894133378,
+        "HashCode": 1725201514,
         "Kind": "Components.EventHandler",
         "Name": "ondragleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7288,7 +9093,7 @@
         }
       },
       {
-        "HashCode": -1094012520,
+        "HashCode": -582239358,
         "Kind": "Components.EventHandler",
         "Name": "ondragover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7371,7 +9176,7 @@
         }
       },
       {
-        "HashCode": -1206469877,
+        "HashCode": 1377852349,
         "Kind": "Components.EventHandler",
         "Name": "ondragstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7454,7 +9259,7 @@
         }
       },
       {
-        "HashCode": 407494601,
+        "HashCode": 684253940,
         "Kind": "Components.EventHandler",
         "Name": "ondrop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7537,7 +9342,7 @@
         }
       },
       {
-        "HashCode": 1474294798,
+        "HashCode": -1596989942,
         "Kind": "Components.EventHandler",
         "Name": "onkeydown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7620,7 +9425,7 @@
         }
       },
       {
-        "HashCode": -1455374335,
+        "HashCode": -632438173,
         "Kind": "Components.EventHandler",
         "Name": "onkeyup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7703,7 +9508,7 @@
         }
       },
       {
-        "HashCode": -683705067,
+        "HashCode": 315152118,
         "Kind": "Components.EventHandler",
         "Name": "onkeypress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7786,7 +9591,7 @@
         }
       },
       {
-        "HashCode": 62340517,
+        "HashCode": 2113074176,
         "Kind": "Components.EventHandler",
         "Name": "onchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7869,7 +9674,7 @@
         }
       },
       {
-        "HashCode": -387005353,
+        "HashCode": -823266006,
         "Kind": "Components.EventHandler",
         "Name": "oninput",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -7952,7 +9757,7 @@
         }
       },
       {
-        "HashCode": 1416386570,
+        "HashCode": 1449602786,
         "Kind": "Components.EventHandler",
         "Name": "oninvalid",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8035,7 +9840,7 @@
         }
       },
       {
-        "HashCode": 1423238927,
+        "HashCode": -1407799414,
         "Kind": "Components.EventHandler",
         "Name": "onreset",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8118,7 +9923,7 @@
         }
       },
       {
-        "HashCode": -1738302666,
+        "HashCode": -1984123548,
         "Kind": "Components.EventHandler",
         "Name": "onselect",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8201,7 +10006,7 @@
         }
       },
       {
-        "HashCode": -1450546017,
+        "HashCode": 1660692704,
         "Kind": "Components.EventHandler",
         "Name": "onselectstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8284,7 +10089,7 @@
         }
       },
       {
-        "HashCode": 107502881,
+        "HashCode": 56583204,
         "Kind": "Components.EventHandler",
         "Name": "onselectionchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8367,7 +10172,7 @@
         }
       },
       {
-        "HashCode": -871303822,
+        "HashCode": 1008362772,
         "Kind": "Components.EventHandler",
         "Name": "onsubmit",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8450,7 +10255,7 @@
         }
       },
       {
-        "HashCode": -2047087633,
+        "HashCode": -1766530730,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8533,7 +10338,7 @@
         }
       },
       {
-        "HashCode": -2075502405,
+        "HashCode": 1593692611,
         "Kind": "Components.EventHandler",
         "Name": "onbeforecut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8616,7 +10421,7 @@
         }
       },
       {
-        "HashCode": -517493541,
+        "HashCode": -939427701,
         "Kind": "Components.EventHandler",
         "Name": "onbeforepaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8699,7 +10504,7 @@
         }
       },
       {
-        "HashCode": -13317061,
+        "HashCode": 16307597,
         "Kind": "Components.EventHandler",
         "Name": "oncopy",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8782,7 +10587,7 @@
         }
       },
       {
-        "HashCode": -816323080,
+        "HashCode": 2064110907,
         "Kind": "Components.EventHandler",
         "Name": "oncut",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8865,7 +10670,7 @@
         }
       },
       {
-        "HashCode": -1916426892,
+        "HashCode": 2044346243,
         "Kind": "Components.EventHandler",
         "Name": "onpaste",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -8948,7 +10753,7 @@
         }
       },
       {
-        "HashCode": -502847155,
+        "HashCode": 1514158073,
         "Kind": "Components.EventHandler",
         "Name": "ontouchcancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9031,7 +10836,7 @@
         }
       },
       {
-        "HashCode": 1643868063,
+        "HashCode": -1701283210,
         "Kind": "Components.EventHandler",
         "Name": "ontouchend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9114,7 +10919,7 @@
         }
       },
       {
-        "HashCode": -834605577,
+        "HashCode": -1403554893,
         "Kind": "Components.EventHandler",
         "Name": "ontouchmove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9197,7 +11002,7 @@
         }
       },
       {
-        "HashCode": 1010546953,
+        "HashCode": -6643256,
         "Kind": "Components.EventHandler",
         "Name": "ontouchstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9280,7 +11085,7 @@
         }
       },
       {
-        "HashCode": 2056874594,
+        "HashCode": -584964343,
         "Kind": "Components.EventHandler",
         "Name": "ontouchenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9363,7 +11168,7 @@
         }
       },
       {
-        "HashCode": 1947883580,
+        "HashCode": 2029750030,
         "Kind": "Components.EventHandler",
         "Name": "ontouchleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9446,7 +11251,7 @@
         }
       },
       {
-        "HashCode": -1719019916,
+        "HashCode": 1216288383,
         "Kind": "Components.EventHandler",
         "Name": "ongotpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9529,7 +11334,7 @@
         }
       },
       {
-        "HashCode": 1431416802,
+        "HashCode": -1694930190,
         "Kind": "Components.EventHandler",
         "Name": "onlostpointercapture",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9612,7 +11417,7 @@
         }
       },
       {
-        "HashCode": 1128592709,
+        "HashCode": -768703973,
         "Kind": "Components.EventHandler",
         "Name": "onpointercancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9695,7 +11500,7 @@
         }
       },
       {
-        "HashCode": -1534330093,
+        "HashCode": -1530151373,
         "Kind": "Components.EventHandler",
         "Name": "onpointerdown",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9778,7 +11583,7 @@
         }
       },
       {
-        "HashCode": 901277650,
+        "HashCode": 1247337571,
         "Kind": "Components.EventHandler",
         "Name": "onpointerenter",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9861,7 +11666,7 @@
         }
       },
       {
-        "HashCode": -765428558,
+        "HashCode": 54059443,
         "Kind": "Components.EventHandler",
         "Name": "onpointerleave",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -9944,7 +11749,7 @@
         }
       },
       {
-        "HashCode": -1543710541,
+        "HashCode": -126235021,
         "Kind": "Components.EventHandler",
         "Name": "onpointermove",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10027,7 +11832,7 @@
         }
       },
       {
-        "HashCode": -383646485,
+        "HashCode": 1214818443,
         "Kind": "Components.EventHandler",
         "Name": "onpointerout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10110,7 +11915,7 @@
         }
       },
       {
-        "HashCode": -1504485656,
+        "HashCode": 1063525745,
         "Kind": "Components.EventHandler",
         "Name": "onpointerover",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10193,7 +11998,7 @@
         }
       },
       {
-        "HashCode": 1813035918,
+        "HashCode": 1762695277,
         "Kind": "Components.EventHandler",
         "Name": "onpointerup",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10276,7 +12081,7 @@
         }
       },
       {
-        "HashCode": -1289824466,
+        "HashCode": 970055607,
         "Kind": "Components.EventHandler",
         "Name": "oncanplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10359,7 +12164,7 @@
         }
       },
       {
-        "HashCode": -1817704376,
+        "HashCode": 757984638,
         "Kind": "Components.EventHandler",
         "Name": "oncanplaythrough",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10442,7 +12247,7 @@
         }
       },
       {
-        "HashCode": -415297256,
+        "HashCode": 236216051,
         "Kind": "Components.EventHandler",
         "Name": "oncuechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10525,7 +12330,7 @@
         }
       },
       {
-        "HashCode": 1739888736,
+        "HashCode": -1054965304,
         "Kind": "Components.EventHandler",
         "Name": "ondurationchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10608,7 +12413,7 @@
         }
       },
       {
-        "HashCode": -1537914540,
+        "HashCode": -1403914263,
         "Kind": "Components.EventHandler",
         "Name": "onemptied",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10691,7 +12496,7 @@
         }
       },
       {
-        "HashCode": 599063064,
+        "HashCode": 228075831,
         "Kind": "Components.EventHandler",
         "Name": "onpause",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10774,7 +12579,7 @@
         }
       },
       {
-        "HashCode": -1759551649,
+        "HashCode": -1976840075,
         "Kind": "Components.EventHandler",
         "Name": "onplay",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10857,7 +12662,7 @@
         }
       },
       {
-        "HashCode": -836657615,
+        "HashCode": -670493174,
         "Kind": "Components.EventHandler",
         "Name": "onplaying",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -10940,7 +12745,7 @@
         }
       },
       {
-        "HashCode": -1812595198,
+        "HashCode": -1694912587,
         "Kind": "Components.EventHandler",
         "Name": "onratechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11023,7 +12828,7 @@
         }
       },
       {
-        "HashCode": 1399325784,
+        "HashCode": -692629425,
         "Kind": "Components.EventHandler",
         "Name": "onseeked",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11106,7 +12911,7 @@
         }
       },
       {
-        "HashCode": -83175738,
+        "HashCode": 280471899,
         "Kind": "Components.EventHandler",
         "Name": "onseeking",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11189,7 +12994,7 @@
         }
       },
       {
-        "HashCode": 527625146,
+        "HashCode": -1703480118,
         "Kind": "Components.EventHandler",
         "Name": "onstalled",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11272,7 +13077,7 @@
         }
       },
       {
-        "HashCode": -65040693,
+        "HashCode": -1623282918,
         "Kind": "Components.EventHandler",
         "Name": "onstop",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11355,7 +13160,7 @@
         }
       },
       {
-        "HashCode": -1923970783,
+        "HashCode": -1669620632,
         "Kind": "Components.EventHandler",
         "Name": "onsuspend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11438,7 +13243,7 @@
         }
       },
       {
-        "HashCode": -1084890510,
+        "HashCode": 1931367510,
         "Kind": "Components.EventHandler",
         "Name": "ontimeupdate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11521,7 +13326,7 @@
         }
       },
       {
-        "HashCode": 1256863310,
+        "HashCode": -1893691495,
         "Kind": "Components.EventHandler",
         "Name": "onvolumechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11604,7 +13409,7 @@
         }
       },
       {
-        "HashCode": -2039219368,
+        "HashCode": 565805445,
         "Kind": "Components.EventHandler",
         "Name": "onwaiting",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11687,7 +13492,7 @@
         }
       },
       {
-        "HashCode": 1646752869,
+        "HashCode": 179269687,
         "Kind": "Components.EventHandler",
         "Name": "onloadstart",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11770,7 +13575,7 @@
         }
       },
       {
-        "HashCode": 1178133576,
+        "HashCode": 1530966668,
         "Kind": "Components.EventHandler",
         "Name": "ontimeout",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11853,7 +13658,7 @@
         }
       },
       {
-        "HashCode": 1860190247,
+        "HashCode": 2127687129,
         "Kind": "Components.EventHandler",
         "Name": "onabort",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -11936,7 +13741,7 @@
         }
       },
       {
-        "HashCode": 1558178709,
+        "HashCode": -1775700829,
         "Kind": "Components.EventHandler",
         "Name": "onload",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12019,7 +13824,7 @@
         }
       },
       {
-        "HashCode": -1181199834,
+        "HashCode": 994118744,
         "Kind": "Components.EventHandler",
         "Name": "onloadend",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12102,7 +13907,7 @@
         }
       },
       {
-        "HashCode": 1663802142,
+        "HashCode": -229128178,
         "Kind": "Components.EventHandler",
         "Name": "onprogress",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12185,7 +13990,7 @@
         }
       },
       {
-        "HashCode": -203883029,
+        "HashCode": -184304844,
         "Kind": "Components.EventHandler",
         "Name": "onerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12268,7 +14073,7 @@
         }
       },
       {
-        "HashCode": -387453062,
+        "HashCode": 1842704490,
         "Kind": "Components.EventHandler",
         "Name": "onactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12351,7 +14156,7 @@
         }
       },
       {
-        "HashCode": 2035449984,
+        "HashCode": -465635429,
         "Kind": "Components.EventHandler",
         "Name": "onbeforeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12434,7 +14239,7 @@
         }
       },
       {
-        "HashCode": -1000710437,
+        "HashCode": 319382475,
         "Kind": "Components.EventHandler",
         "Name": "onbeforedeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12517,7 +14322,7 @@
         }
       },
       {
-        "HashCode": 925981611,
+        "HashCode": -201344024,
         "Kind": "Components.EventHandler",
         "Name": "ondeactivate",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12600,7 +14405,7 @@
         }
       },
       {
-        "HashCode": -207799276,
+        "HashCode": 437834297,
         "Kind": "Components.EventHandler",
         "Name": "onended",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12683,7 +14488,7 @@
         }
       },
       {
-        "HashCode": -565610498,
+        "HashCode": 1842647118,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12766,7 +14571,7 @@
         }
       },
       {
-        "HashCode": -452730189,
+        "HashCode": 1014608754,
         "Kind": "Components.EventHandler",
         "Name": "onfullscreenerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12849,7 +14654,7 @@
         }
       },
       {
-        "HashCode": -78906436,
+        "HashCode": 1244826602,
         "Kind": "Components.EventHandler",
         "Name": "onloadeddata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -12932,7 +14737,7 @@
         }
       },
       {
-        "HashCode": -1526127935,
+        "HashCode": -794727006,
         "Kind": "Components.EventHandler",
         "Name": "onloadedmetadata",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13015,7 +14820,7 @@
         }
       },
       {
-        "HashCode": -1057182791,
+        "HashCode": 510893424,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockchange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13098,7 +14903,7 @@
         }
       },
       {
-        "HashCode": 1914363290,
+        "HashCode": -1268635629,
         "Kind": "Components.EventHandler",
         "Name": "onpointerlockerror",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13181,7 +14986,7 @@
         }
       },
       {
-        "HashCode": 104736150,
+        "HashCode": -1468590292,
         "Kind": "Components.EventHandler",
         "Name": "onreadystatechange",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13264,7 +15069,7 @@
         }
       },
       {
-        "HashCode": 431035393,
+        "HashCode": 795932514,
         "Kind": "Components.EventHandler",
         "Name": "onscroll",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13347,7 +15152,7 @@
         }
       },
       {
-        "HashCode": 1788720510,
+        "HashCode": 2098243752,
         "Kind": "Components.EventHandler",
         "Name": "ontoggle",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13430,7 +15235,7 @@
         }
       },
       {
-        "HashCode": -1994130244,
+        "HashCode": -1302337877,
         "Kind": "Components.EventHandler",
         "Name": "oncancel",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13494,7 +15299,7 @@
         }
       },
       {
-        "HashCode": -209519201,
+        "HashCode": -1065791942,
         "Kind": "Components.EventHandler",
         "Name": "onclose",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13558,7 +15363,7 @@
         }
       },
       {
-        "HashCode": -874596586,
+        "HashCode": 1220087541,
         "Kind": "Components.Splat",
         "Name": "Attributes",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -13597,7 +15402,7 @@
         }
       },
       {
-        "HashCode": 968256615,
+        "HashCode": -1251209589,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.Razor.TagHelpers.UrlResolutionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.Razor",
@@ -13914,7 +15719,7 @@
         }
       },
       {
-        "HashCode": -2003321826,
+        "HashCode": 1830553745,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14113,7 +15918,7 @@
         }
       },
       {
-        "HashCode": 904607787,
+        "HashCode": -87897714,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.CacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14242,7 +16047,7 @@
         }
       },
       {
-        "HashCode": -2041295116,
+        "HashCode": -5413274,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ComponentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14299,7 +16104,7 @@
         }
       },
       {
-        "HashCode": -271921949,
+        "HashCode": -1871127271,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.DistributedCacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14433,7 +16238,7 @@
         }
       },
       {
-        "HashCode": 389196904,
+        "HashCode": 1478198984,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14481,7 +16286,7 @@
         }
       },
       {
-        "HashCode": 490440509,
+        "HashCode": -1114050705,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -14900,7 +16705,7 @@
         }
       },
       {
-        "HashCode": 23157685,
+        "HashCode": 218905902,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15004,7 +16809,7 @@
         }
       },
       {
-        "HashCode": -1292993603,
+        "HashCode": -330873283,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15052,7 +16857,7 @@
         }
       },
       {
-        "HashCode": 1393472530,
+        "HashCode": -1311484503,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15133,7 +16938,7 @@
         }
       },
       {
-        "HashCode": 908102742,
+        "HashCode": -1575490687,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15168,7 +16973,7 @@
         }
       },
       {
-        "HashCode": -270936263,
+        "HashCode": 757457438,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15366,7 +17171,7 @@
         }
       },
       {
-        "HashCode": 1609649612,
+        "HashCode": -1786821684,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15396,7 +17201,7 @@
         }
       },
       {
-        "HashCode": 1604438563,
+        "HashCode": 1779267620,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15479,7 +17284,7 @@
         }
       },
       {
-        "HashCode": 272585463,
+        "HashCode": -892682064,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PersistComponentStateTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15510,7 +17315,7 @@
         }
       },
       {
-        "HashCode": -2084140761,
+        "HashCode": 1587522355,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15665,7 +17470,7 @@
         }
       },
       {
-        "HashCode": 476671752,
+        "HashCode": 2122279624,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15726,7 +17531,7 @@
         }
       },
       {
-        "HashCode": 1079076552,
+        "HashCode": 1271370050,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15770,7 +17575,7 @@
         }
       },
       {
-        "HashCode": 1457534788,
+        "HashCode": 440431461,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15805,7 +17610,7 @@
         }
       },
       {
-        "HashCode": -871772166,
+        "HashCode": 482509716,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -15841,7 +17646,7 @@
         }
       },
       {
-        "HashCode": 933926045,
+        "HashCode": -285677133,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -15937,7 +17742,7 @@
         }
       },
       {
-        "HashCode": -1847849845,
+        "HashCode": -1599002660,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16059,7 +17864,7 @@
         }
       },
       {
-        "HashCode": 1813213946,
+        "HashCode": 1420279641,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16181,7 +17986,7 @@
         }
       },
       {
-        "HashCode": -1129624006,
+        "HashCode": -300694859,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16314,7 +18119,7 @@
         }
       },
       {
-        "HashCode": 477340480,
+        "HashCode": -376813470,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16447,7 +18252,7 @@
         }
       },
       {
-        "HashCode": 1190101825,
+        "HashCode": -1282474303,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16580,7 +18385,7 @@
         }
       },
       {
-        "HashCode": -1343703637,
+        "HashCode": 1963716183,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16713,7 +18518,7 @@
         }
       },
       {
-        "HashCode": -968948612,
+        "HashCode": 1001165474,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16846,7 +18651,7 @@
         }
       },
       {
-        "HashCode": 157585347,
+        "HashCode": 1919157006,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -16979,7 +18784,7 @@
         }
       },
       {
-        "HashCode": 2083816925,
+        "HashCode": -858104067,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17112,7 +18917,7 @@
         }
       },
       {
-        "HashCode": -834273880,
+        "HashCode": -2010244036,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17245,7 +19050,7 @@
         }
       },
       {
-        "HashCode": 580225727,
+        "HashCode": 1649097822,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17378,7 +19183,7 @@
         }
       },
       {
-        "HashCode": 388850911,
+        "HashCode": 1352543708,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17511,7 +19316,7 @@
         }
       },
       {
-        "HashCode": 1114764795,
+        "HashCode": -1189148690,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17644,7 +19449,7 @@
         }
       },
       {
-        "HashCode": -209649940,
+        "HashCode": 1114525771,
         "Kind": "Components.Bind",
         "Name": "Bind_value",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17777,7 +19582,7 @@
         }
       },
       {
-        "HashCode": -1367481262,
+        "HashCode": -1511171350,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -17899,7 +19704,7 @@
         }
       },
       {
-        "HashCode": 1908316146,
+        "HashCode": 813167103,
         "Kind": "Components.Bind",
         "Name": "Bind",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -18021,7 +19826,7 @@
         }
       },
       {
-        "HashCode": 1237076195,
+        "HashCode": 420588998,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18108,7 +19913,7 @@
         }
       },
       {
-        "HashCode": 1079622173,
+        "HashCode": -347737773,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputCheckbox",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18196,7 +20001,7 @@
         }
       },
       {
-        "HashCode": 451119868,
+        "HashCode": -1294508162,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18283,7 +20088,7 @@
         }
       },
       {
-        "HashCode": -1774424124,
+        "HashCode": 1241934997,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputDate<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18371,7 +20176,7 @@
         }
       },
       {
-        "HashCode": -823797171,
+        "HashCode": 1486469716,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18458,7 +20263,7 @@
         }
       },
       {
-        "HashCode": 1383558397,
+        "HashCode": 759659365,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputNumber<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18546,7 +20351,7 @@
         }
       },
       {
-        "HashCode": -1097509883,
+        "HashCode": 1139840829,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18633,7 +20438,7 @@
         }
       },
       {
-        "HashCode": -4113239,
+        "HashCode": -275583605,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputRadioGroup<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18721,7 +20526,7 @@
         }
       },
       {
-        "HashCode": 1742963778,
+        "HashCode": 454227895,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18808,7 +20613,7 @@
         }
       },
       {
-        "HashCode": -475439703,
+        "HashCode": 1772163009,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputSelect<TValue>",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18896,7 +20701,7 @@
         }
       },
       {
-        "HashCode": 744197993,
+        "HashCode": 632733124,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -18983,7 +20788,7 @@
         }
       },
       {
-        "HashCode": -961703894,
+        "HashCode": -1560328254,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputText",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19071,7 +20876,7 @@
         }
       },
       {
-        "HashCode": -305586235,
+        "HashCode": 2068457659,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19158,7 +20963,7 @@
         }
       },
       {
-        "HashCode": 514916478,
+        "HashCode": 51792317,
         "Kind": "Components.Bind",
         "Name": "Microsoft.AspNetCore.Components.Forms.InputTextArea",
         "AssemblyName": "Microsoft.AspNetCore.Components.Web",
@@ -19246,7 +21051,7 @@
         }
       },
       {
-        "HashCode": 1180700500,
+        "HashCode": -1347505024,
         "Kind": "Components.Ref",
         "Name": "Ref",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19285,7 +21090,7 @@
         }
       },
       {
-        "HashCode": -506476709,
+        "HashCode": -377487553,
         "Kind": "Components.Key",
         "Name": "Key",
         "AssemblyName": "Microsoft.AspNetCore.Components",
@@ -19329,13 +21134,8 @@
   "RootNamespace": "Project",
   "Documents": [
     {
-      "FilePath": "/home/lasse/code/cs/Project/Views/Home/Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/lasse/code/cs/Project/Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FilePath": "/home/lasse/code/cs/Project/Views/Code/Python/PythonFullstack.cshtml",
+      "TargetPath": "Views\\Code\\Python\\PythonFullstack.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19344,13 +21144,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/lasse/code/cs/Project/Views/Shared/_Alert.cshtml",
-      "TargetPath": "Views\\Shared\\_Alert.cshtml",
+      "FilePath": "/home/lasse/code/cs/Project/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/lasse/code/cs/Project/Views/Shared/Error.cshtml",
-      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FilePath": "/home/lasse/code/cs/Project/Areas/Identity/Pages/Account/Register.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19359,8 +21159,33 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/lasse/code/cs/Project/Views/Code/Python/PythonFullstack.cshtml",
-      "TargetPath": "Views\\Code\\Python\\PythonFullstack.cshtml",
+      "FilePath": "/home/lasse/code/cs/Project/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/lasse/code/cs/Project/Views/Shared/_Alert.cshtml",
+      "TargetPath": "Views\\Shared\\_Alert.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/lasse/code/cs/Project/Areas/Identity/Pages/_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/lasse/code/cs/Project/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/lasse/code/cs/Project/Areas/Identity/Pages/Account/Login.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/lasse/code/cs/Project/Areas/Identity/Pages/Account/_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -19369,18 +21194,28 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "/home/lasse/code/cs/Project/Views/Home/Login.cshtml",
-      "TargetPath": "Views\\Home\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/home/lasse/code/cs/Project/Views/_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FilePath": "/home/lasse/code/cs/Project/Areas/Identity/Pages/_ViewImports.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/home/lasse/code/cs/Project/Views/Code/Python.cshtml",
       "TargetPath": "Views\\Code\\Python.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/lasse/code/cs/Project/Views/Shared/_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/lasse/code/cs/Project/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/lasse/code/cs/Project/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     }
   ],

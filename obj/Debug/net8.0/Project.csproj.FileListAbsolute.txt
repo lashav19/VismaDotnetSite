@@ -598,3 +598,7 @@ G:/code/cs/asp/VismaDotnet/bin/Debug/net8.0/Microsoft.JSInterop.dll
 /home/lasse/code/cs/Project/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Security.Cryptography.ProtectedData.dll
 /home/lasse/code/cs/Project/bin/Debug/net8.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
 /home/lasse/code/cs/Project/obj/Debug/net8.0/Project.sourcelink.json
+/home/lasse/code/cs/Project/bin/Debug/net8.0/AngleSharp.dll
+/home/lasse/code/cs/Project/bin/Debug/net8.0/AspNet.Security.OpenId.dll
+/home/lasse/code/cs/Project/bin/Debug/net8.0/AspNet.Security.OpenId.Steam.dll
+/home/lasse/code/cs/Project/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.Google.dll
