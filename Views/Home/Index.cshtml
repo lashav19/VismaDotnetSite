@@ -1,0 +1,93 @@
+﻿@model List<string>
+@using Project.Services
+@{
+    ViewData["Title"] = "Home Page";
+    ViewData["AlertTitle"] = "Success";
+    ViewData["AlertMessage"] = "Wow";
+    
+}
+
+<button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal">
+  Open modal
+</button>
+
+<!-- The Modal -->
+<div class="modal fade" id="myModal">
+  <div class="modal-dialog modal-fullscreen">
+    <div class="modal-content">
+
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h4 class="modal-title">Modal Heading</h4>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+
+      <!-- Modal body -->
+      <div class="modal-body">
+        Modal body..
+      </div>
+
+      <!-- Modal footer -->
+      <div class="modal-footer">
+        <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<partial name="~/Views/Shared/_Alert.cshtml">
+<div class="container-fluid p-5 bg-dark my-5 text-white rounded-3 ">
+    <p class="h1 display-4">Welcome</p>
+    <p class="h2">Welcome back</p>
+    
+</div>
+
+
+
+<div class="container">
+    <div class="row my-5">
+        <div class="col-sm-3">
+            <div class="card">
+                <div class="card-header">
+                <img src="img/flask_butikk.png" alt="" class="img-fluid rounded-3 mx-auto d-block">
+                </div>
+                <div class="card-body p-5">
+                <p class="h2 pt-5">Python fullstack app</p>
+                <a class="" asp-area="" asp-controller="Home" asp-action="Python">Read more -></a>  
+                <button class="btn btn-primary" asp-area="" asp-controller="Home">Click me</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="card p-2">
+            <div class="card-header p-5">
+            </div>
+            <div class="card-body ">
+                <p class="h2">C# fullstack app</p>
+            </div>
+        </div>
+        </div>
+
+        @for (int i = 1; i < 6; i++)
+            {
+
+                <div class="col">
+                    <div class="card p-2">
+                        <div class="card-header p-5">
+                            <p class="h2">Card @Model[i]</p>
+                        </div>
+                    </div>
+            
+                </div>
+            }
+    
+   
+
+    </div>
+</div>
+
+</div>
+
+

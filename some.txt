@@ -1,0 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+
+namespace Project.Data
+{
+    public class ApplicationDbContext : DbContext
+    {
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options){
+
+        }
+        public DbSet<Project.Services.UserEntity> UserEntity { get; set; W}
+    }
+}
