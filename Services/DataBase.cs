@@ -10,7 +10,7 @@ namespace Project.Services
         public DataBase(string connectionString){
             _connectionString = connectionString;
         }
-        public List<string> Read(){
+        public List<string> Read(string SQL){
 
             MySqlConnection con = new MySqlConnection(_connectionString);
             List<string> users = new List<string>();
@@ -19,7 +19,6 @@ namespace Project.Services
                 
                 
                 con.Open();
-                string SQL = "SELECT * FROM bruker";
                 MySqlCommand cmd = new MySqlCommand(SQL, con);
                 MySqlDataReader reader =  cmd.ExecuteReader();
 

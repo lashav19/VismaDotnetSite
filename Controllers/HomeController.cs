@@ -2,11 +2,14 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Project.Models;
 using Project.Services;
+using Microsoft.Extensions.Configuration;
 
 namespace Project.Controllers;
 
 public class HomeController : Controller
 {
+    private readonly IConfiguration _configuration;
+
     private readonly ILogger<HomeController> _logger;
 
     public HomeController(ILogger<HomeController> logger)
@@ -15,15 +18,17 @@ public class HomeController : Controller
     }
 
     public IActionResult Index()
-    {
-        var database = new DataBase("server=127.0.0.1;uid=admin;database=butikk_william;pwd=Server2023");
-        var model = database.Read();
+    {   
+        var con = _configuration.GetConnectionString("ConnectionStrings:ButikkWilliam");
+        var database = new DataBase(con);
+        var model = database.Read("SELECT * FROM bruker;");
 
         return View(model);
     }
 
     public IActionResult About()
     {
+
         return View();
     }
 
