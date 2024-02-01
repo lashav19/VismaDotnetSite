@@ -2,8 +2,10 @@
 using Microsoft.EntityFrameworkCore;
 using Project;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.UI.Services;
 using Project.Areas.Identity.Data;
 using Project.Data;
+using Project.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -15,6 +17,8 @@ builder.Services.AddDefaultIdentity<ProjectUser>(options => options.SignIn.Requi
 builder.Services.AddRazorPages();
 builder.Services.AddSingleton<IConfiguration>(builder.Configuration);
 
+builder.Services.AddTransient<IEmailSender, EmailSender>();
+builder.Services.Configure<AuthMessageSenderOptions>(builder.Configuration);
 
 
 // Add services to the container.
