@@ -33,7 +33,7 @@ public class EmailSender : IEmailSender
         var client = new SendGridClient(apiKey);
         var msg = new SendGridMessage()
         {
-            From = new EmailAddress("lasse@2itromsdal.tech", "Password Recovery"),
+            From = new EmailAddress("lasse@2itromsdal.tech", "Email verification"),
             Subject = subject,
             PlainTextContent = message,
             HtmlContent = message
