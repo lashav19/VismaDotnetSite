@@ -10,8 +10,6 @@ namespace Project.Areas.Identity.Data;
 public class ProjectUser : IdentityUser
 {
 
-    public string FirstName { get; set; }
-    public string LastName { get; set; }
 
 
 }
